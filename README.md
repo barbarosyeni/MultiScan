@@ -1,4 +1,4 @@
-"ENGLİSH"
+"ENGLISH"
 
 MultiScan is designed to make it easy to print out hundreds or even thousands of IP addresses. In addition, it performs URL and File scanning.
 
